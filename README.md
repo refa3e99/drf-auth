@@ -21,5 +21,4 @@
 - Any tests of note? N\A
 - Describe any tests that you did not complete, skipped, etc N\A
 #### Docker
-![](s.png)
-![](scnsht.png)
+![](scrnsht.png)
